@@ -146,6 +146,5 @@ namespace InventorySystemCsharp
             return hash.ToString();
         }
 
-        
     }
 }
